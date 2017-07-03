@@ -10,10 +10,10 @@
   - Elizabeth Deutsch
   - Laura Melgarejo-Silva
   - Lisy Ruiz
-  - Tehut Getahun
+  - Anna Elisabeth
   
 - Node / MongoDB
-  - Kaitlin Ramirez
+  - Tehut Getahun
   - Tamiko Terada
   - Kayla Kubicke
   - Cynthia Cobb
@@ -37,7 +37,7 @@
     
 - Hardware / Data Science / Misc
   - Sofia Kim
-  - Anna Elisabeth
+  - Kaitlin Ramirez
   - Andrea Valliere
   - Danielle Birbal
   - Ting Wong
