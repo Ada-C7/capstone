@@ -6,6 +6,7 @@
 
 ## [Capstone Groups](/groups.md)
 **PM: Kari**
+
 _TBD Group 4_
 - Lynn Trickey
 - Bo Tretheway
@@ -24,6 +25,7 @@ _TBD Group 6_
 - Ann Dai
 
 **PM: Charles**
+
 _TBD Group 1_
 - Alison Zerbe
 - Haby Randall
