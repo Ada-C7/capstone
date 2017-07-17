@@ -3,6 +3,7 @@
 ## Upcoming Deliverables
 1. [Preliminary Concept](/concept.md)--Due Monday 06/19
 1. [Product Plan](/product-plan.md)--Due Monday 07/03
+1. [Reflections Prompts](/reflections.md). Please [submit via Google Forms](https://goo.gl/forms/LcvsOvHL4JLSgqTJ2)--Due Thursday 07/27
 
 ## [Capstone Groups](/groups.md)
 **PM: Kari**
