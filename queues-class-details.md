@@ -6,7 +6,7 @@
 1. RSVP for Presentations--Before Monday 07/24, 11:30 PM
 1. Code Freeze--Wednesday 07/26, 5:00 PM
 1. [Reflections Prompts](/reflections.md). Please [submit via Google Forms](https://goo.gl/forms/LcvsOvHL4JLSgqTJ2)--Due Thursday 07/27
-1. [Presentations](/presentations.md)--07/28
+1. [Presentations](/presentation.md)--07/28
     - Arrive at [Amazon's Day 1 Building](https://www.google.com/maps?hl=en&q=47.6162311,-122.3402054&sll=47.6162311,-122.3402054&z=13&markers=47.6162311,-122.3402054) by 3:00
     - Presentations begin promptly at 4:00
 
